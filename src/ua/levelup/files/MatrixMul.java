@@ -36,7 +36,7 @@ public class MatrixMul {
     }
 
     public static int[][] matrixMul(int[][] matrix1, int[][] matrix2) {
-        //TODO Implent here your logic
+        //TODO Implement here your logic
 
         return new int[matrix1.length][];
     }
