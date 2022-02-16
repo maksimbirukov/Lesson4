@@ -1,4 +1,4 @@
-package ua.levelup.files.homework;
+package ua.levelup.homework;
 
 import java.util.Arrays;
 

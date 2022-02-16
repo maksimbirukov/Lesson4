@@ -1,4 +1,4 @@
-package ua.levelup.files.homework.annachymshyt;
+package ua.levelup.homework.annachymshyt;
 
 
 public class MatrixMultiplication{
